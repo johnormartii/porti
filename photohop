@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head></head>
+<title>my pictures</title>
+<link rel="stylesheet"href="styles.css">
+<body>
+    <header>
+        <nav>
+            <a href="file:///C:/Users/HP/Desktop/portifolio/home.html">home</a>
+            <a href="file:///C:/Users/HP/Desktop/portifolio/about.html">about</a>
+            <a href="file:///C:/Users/HP/Desktop/portifolio/works.html">works</a>
+            <a href="file:///C:/Users/HP/Desktop/portifolio/contacts.html">contacts</a>
+            <a href="file:///C:/Users/HP/Desktop/portifolio/portifolio.html">portifolio</a><br>
+            <h1></h1>
+        </nav>
+    </header>
+  <div style="background-image: url(back.jpg);"></div>
+  <img src="noj.jpg">
+  <img scr="jon.jpg" width="10px">
+  <img scr="back.jpg" width="10px">
+  <img scr="background.jpg">  
+</body>
+</html>

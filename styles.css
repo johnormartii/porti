@@ -1,0 +1,48 @@
+header {
+    margin: 0%;
+    background-color:rgba(79, 246, 176, 0.799);
+    border: 0px;
+    padding: 2px;
+    text-align: center;
+    align-items: center;
+    font-size: large;
+}
+h1{
+    color: blue;
+}
+body{
+    background: url(noj.jpg);
+}
+.myname{
+    font-size: 70px;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+home section{
+font-size: 25px
+}
+hr{
+    width: 40%;
+    margin: o outo;
+    margin-top: 20px;
+}
+.about{
+    display: flex;
+    justify-content: space-between;
+}
+.about > img{
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+.about-content > h1 {
+    font-size: xx-large;
+    font-weight: 900;
+}
+.about-content > p {
+    font-size: large;
+}
+hr{
+    text-align: center;
+}
