@@ -7,11 +7,12 @@ header {
     align-items: center;
     font-size: large;
 }
+
+body{
+    background: url(neon.webp);
+}
 h1{
     color: blue;
-}
-body{
-    background: url(noj.jpg);
 }
 .myname{
     font-size: 70px;
